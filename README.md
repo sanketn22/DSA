@@ -1,7 +1,7 @@
 ## DSA
 
 #Insertion Sort
-/*
+
                  * swap with the adjacent element 
                  * till they are in the correct position
                  * or the index reaches the first position
@@ -51,4 +51,4 @@
                  * arr[j-1] = arr[2-1] = arr[1] = 2
                  * compare 2 > 3 false -- no swap : while condition false, exit while loop
                  * [1,2,3,4,5]
-                 */
+                 *
